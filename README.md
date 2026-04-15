@@ -24,7 +24,7 @@ Um clone simplificado do Twitter (X) desenvolvido para fins de aprendizado, util
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/kelvin-clone-twittergit](https://github.com/seu-usuario/kelvin-clone-twitter.git)
+    git clone [https://github.com/seu-usuario/kelvin-clone-twitter.git](https://github.com/seu-usuario/kelvin-clone-twitter.git)
     ```
 2.  **Instale as dependências do PHP:**
     ```bash
